@@ -5,3 +5,11 @@
     --secondary-color: #A91D3A;
     --font:"Nunito Sans", sans-serif;
 }
+
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font);
+    height: 100vh;
+    margin: 0;
+}
